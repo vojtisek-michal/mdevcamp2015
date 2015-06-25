@@ -1,6 +1,6 @@
 # mDevCamp 2015
 ## Jak zapezpečit Android aplikaci?
-Přijď a dozvíš se:
+*Přijď a dozvíš se:*
 - jaká máme data
 - security model obecně a kde Android pomáhá
 - co požadují různé security guidelines a jak jim vyhovět
@@ -21,8 +21,11 @@ Přijď a dozvíš se:
 1. [framework-res.apk](https://www.androidfilehost.com/?fid=23212708291677144)
 1. [postup ze stackoverflow](http://stackoverflow.com/a/6081365/632900)
 
+
 **NEBO**
+
 1. [decompileandroid.com](http://www.decompileandroid.com/)
+
 
 
 ### Předpoklady pro re-kompilaci
