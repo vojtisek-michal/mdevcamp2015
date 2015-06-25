@@ -29,4 +29,5 @@
 
 
 ### Předpoklady pro re-kompilaci
+1. **Java JDK**
 1. **Textový editor**, ideálně vývojové prostředí (Android Studio, Eclipse)
