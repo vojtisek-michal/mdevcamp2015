@@ -18,8 +18,9 @@
 1. [dex2jar](http://code.google.com/p/dex2jar/)
 1. [jd-gui](http://jd.benow.ca/)
 1. [apktool 2.0.0](https://bitbucket.org/iBotPeaches/apktool/downloads)
-1. [framework-res.apk](https://www.androidfilehost.com/?fid=23212708291677144)
-1. [postup ze stackoverflow](http://stackoverflow.com/a/6081365/632900)
+1. framework-res.apk - z Android M Preview v repozitáři, také ve tvém zařízení ()
+
+Projdeme celý [detailní postup](http://ibotpeaches.github.io/Apktool/documentation/). Další návod je na [xda-developers](http://forum.xda-developers.com/showthread.php?t=2213985) i na [stackoverflow](http://stackoverflow.com/a/6081365/632900).
 
 
 **NEBO**
@@ -31,3 +32,4 @@
 ### Předpoklady pro re-kompilaci
 1. **Java JDK**
 1. **Textový editor**, ideálně vývojové prostředí (Android Studio, Eclipse)
+1. práce s příkazovou řádkou (apktool, jarsigner, keytool)
